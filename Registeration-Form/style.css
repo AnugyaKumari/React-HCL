@@ -1,0 +1,15 @@
+body{  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: rgb(247, 248, 250);
+}
+
+
+th , td{
+  border-style: solid;
+  border-color:black;
+}
+form{
+  width: 500px;
+    height: auto;background-color: rgb(238, 188, 245);
+    padding: 20px;
+}
